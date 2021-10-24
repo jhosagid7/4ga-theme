@@ -1,0 +1,29 @@
+/*
+Theme Name: 4Geeks-Academy
+Theme Uri:
+Author: Jhonny Sagid Pirela Pineda
+Author Uri: jhonnypirela.dev
+Version: 1.0
+Licence: GNU General Public Licence or later
+Tags: html5, css3, 4Geeks
+
+*/
+
+* {
+    font-family: Lato, sans-serif;
+}
+
+.suscrive {
+    background: url('images/caracas-home.png');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.title {
+    margin-top: 5%;
+    /* margin-left: 40%; */
+    color: #FFFFFF;
+    /* background: #ece9e9; */
+    text-shadow: 3px 5px 2px #474747;
+}
