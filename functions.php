@@ -53,7 +53,7 @@ add_filter ('excerpt_more', 'wp4ga_ejr_nuevo_excerpt');
 
 
 
-//Add widget
+//Add widget.
 function wp4ga_register_sidebars() {
     /* Register the 'primary' sidebar. */
     register_sidebar(
