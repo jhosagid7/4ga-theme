@@ -18,7 +18,7 @@
     <!-- Navbar -->
     <div class="container-fluit bg-dark fixed-top">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark container">
-            <div class="container-fluid">
+            <div class="container-fluid pt-4">
                 <a class="navbar-brand" href="#">
                     <img src="<?php echo get_stylesheet_directory_uri();?>/images/Rigo-white.png" width="30" height="30" class="d-inline-block align-top" alt=""> 4Geeks Academy
                 </a>
